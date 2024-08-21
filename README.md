@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 
-- 🐄 I'm a Computer Science Student with a background in Animal Science.
+- 🐄 I'm a Computer Science Student with a background in Animal Science and Microbiology.
 - 📖 I'm a Student Tutor at Irvine Valley College. I built a [website](https://luluwu.simple.ink/) with Notion for my students.
-- 🔭 I’m currently working on my first Android App.
+- 🔭 I’m currently working on my first Android App, [Tippy](https://github.com/luluwu516/Tippy/tree/main).
 - 🌱 I’m currently expanding my knowledge in Linux.
-- 📫 Click [here](https://drive.google.com/file/d/1_yzTLO0WFZc3A7SHcBmq1oUzKd9lEx8D/view?usp=sharing) to view my resume!
+- 📫 Please click [here](https://drive.google.com/file/d/1_yzTLO0WFZc3A7SHcBmq1oUzKd9lEx8D/view?usp=sharing) to view my resume!
 - 💬 Please feel free to contact me. I'm always happy to help!
