@@ -1,4 +1,4 @@
-# Hi there, this is Lulu Wu 👋
+# Hi there, this is Lulu (Yi-Lu) Wu 👋
 
 <!--
 **luluwu516/luluwu516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Notion-Lu's_Garage-white?logo=notion)](https://luluwu.simple.ink/)
 [![](https://img.shields.io/badge/LinkedIn-@Yi--Lu_Wu-2A77B5?logo=linkedin&logoColor=2A77B5)](https://www.linkedin.com/in/luluwu516/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-@luluwu-222?logo=codepen&logoColor=fff)](https://codepen.io/luluwu)
-<a href="mailto:sky110423@gmail.com">![](https://img.shields.io/badge/Gmail-sky110423-D14836?logo=gmail)</a>
+![](https://img.shields.io/badge/Gmail-sky110423@gmail.com-D14836?logo=gmail)
 
 <br/>
 
@@ -93,11 +93,11 @@ Linux:
 ![](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff)
 ![](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff)
 
-* Operation System: 
+* Linux: 
 ![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 ![](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=fff)
 
-* Database
+* Database:
 ![](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
