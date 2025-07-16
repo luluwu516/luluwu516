@@ -11,14 +11,13 @@ Here are some ideas to get you started:
 -->
 
 - 🐄 I'm a Computer Science Student with an Animal Science and Microbiology background.
-- 📖 I'm a Student Tutor at Irvine Valley College. I built a [website](https://luluwu.simple.ink/) with Notion for my students.
-- 🔭 I’m currently working on my first Android App, [Tippy](https://github.com/luluwu516/Tippy/tree/main).
-- 🌱 I’m currently expanding my knowledge in Linux.
+- 🌱 I’m currently expanding my knowledge in Artificial Intelligence and Machine Learning.
+- 📖 I was a Student Tutor at Irvine Valley College. I built a [website](https://luluwu.notion.site/Lu-s-CS-Garage-bfab1b78168142089b4b8b8985f471fe) with Notion for my students.
 - 📫 Please click [here](https://drive.google.com/file/d/1_yzTLO0WFZc3A7SHcBmq1oUzKd9lEx8D/view?usp=sharing) to view my resume!
 - 💬 Please feel free to contact me. I'm always happy to help!
 
 [![](https://img.shields.io/badge/Website-Yi--Lu_(Lulu)_Wu-72C0F8?logo=homepage)](https://luluwu516.github.io/home/)
-[![](https://img.shields.io/badge/Notion-Lu's_Garage-white?logo=notion)](https://luluwu.simple.ink/)
+[![](https://img.shields.io/badge/Notion-Lu's_Garage-white?logo=notion)](https://luluwu.notion.site/Lu-s-CS-Garage-bfab1b78168142089b4b8b8985f471fe)
 [![](https://img.shields.io/badge/LinkedIn-@Yi--Lu_Wu-2A77B5?logo=linkedin&logoColor=2A77B5)](https://www.linkedin.com/in/luluwu516/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-@luluwu-222?logo=codepen&logoColor=fff)](https://codepen.io/luluwu)
 ![](https://img.shields.io/badge/Gmail-sky110423@gmail.com-D14836?logo=gmail)
@@ -39,6 +38,7 @@ Python:
 * [Streamlit Cheat Sheet](https://github.com/luluwu516/streamlit-cheat-sheet): A Streamlit cheat sheet app
 * [AI Copywriter](https://github.com/luluwu516/ai-copywriter): Empowering users to craft captivating copy for various social media platforms effortlessly using Streamlit and ChatGPT API
 * [Account Book](https://github.com/luluwu516/account-book): Building a account book database with Python and SQLite
+* [Machine Learning](https://github.com/luluwu516/MachineLearning): Introduction of Machine Learning
 
 Java:
 * [Google Vision AI Demo](https://github.com/luluwu516/VisionAI-demo): Utilizing the Vision API to assign labels to images, classify them, and then export the results as an Excel file with Java
